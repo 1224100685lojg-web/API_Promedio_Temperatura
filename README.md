@@ -20,6 +20,9 @@ POST /promedio
   "promedio": 81.25
 }
 
+![Prueba en Postman](postman_promedio.png)
+
+
 ---
 
 ## 🌡️ Ejercicio 2: Conversor de Temperatura
@@ -40,6 +43,9 @@ POST /convertir-temperatura
   "original": "25°C",
   "convertido": "77.0°F"
 }
+
+![Prueba en Postman](postman_temperatura.png)
+
 
 ---
 
