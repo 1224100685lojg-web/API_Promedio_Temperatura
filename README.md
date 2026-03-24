@@ -46,7 +46,7 @@ POST /convertir-temperatura
 
 ![Prueba en Postman](postman_temperatura.png)
 
-![Prueba en Postman](postman_temperatura1.png)
+![Prueba en Postman](postmane_temperatura1.png)
 
 
 ---
